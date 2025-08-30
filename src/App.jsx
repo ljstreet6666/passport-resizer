@@ -298,7 +298,7 @@ export default function App() {
       </main>
 
       <footer style={{ textAlign: "center", fontSize: 12, color: "#64748b", padding: "20px 0" }}>
-        © {new Date().getFullYear()} Passport Resizer • Made for TG74 by JH.
+        © {new Date().getFullYear()} Passport Resizer • Made by JH.
       </footer>
     </div>
   );
